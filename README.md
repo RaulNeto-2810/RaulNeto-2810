@@ -1,6 +1,6 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=92FE9D&section=header&reversal=true&textBg=false"/>
 
-<p align="center">Eat​☕, Sleep😴​, Code🧑‍💻​ e Repeat🔃. <br><br> Atualmente estudante de bacharelado em Ciências da Computação, focado em Front-End e Design UX/UI. Novato em programação e amante na área de TI, sempre buscando aprender mais e mais para ir cada vez mais longe e poder alcançar meus obejtivos.. Amo programar e estou sempre buscando aprender mais e melhorar minhas habilidades.</p>&nbsp;
+<p align="center">Eat​☕, Sleep😴​, Code🧑‍💻​ e Repeat🔃. <br><br> Atualmente estudante de bacharelado em Ciências da Computação, focado em Front-End e Design UX/UI. Amante na área de TI e por tecnologias, sempre buscando aprender mais e mais para ir cada vez mais longe e poder alcançar meus obejtivos.. Amo programar e estou sempre buscando aprender mais e melhorar minhas habilidades.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raulneto-2810&theme=radical&mode=weekly" />
