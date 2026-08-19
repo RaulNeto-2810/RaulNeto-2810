@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">Eat​☕, Sleep😴​, Code🧑‍💻​ e Repeat🔃.<br><br>Me chamo Raul Neto, estudante de bacharelado em Ciência da Computação e também técnico em Desenvolvimento de Sistemas.<br> Focado em Front-End e Design UI/UX, áreas onde busco unir criatividade e código para criar interfaces funcionais e bem elaboradas. <br>Estou sempre em busca de novos aprendizados para evoluir como desenvolvedor e ampliar minhas habilidades.</p>
+<p align="center">Eat​☕, Sleep😴​, Code🧑‍💻​ e Repeat🔃.<br><br>Me chamo Raul Neto, sou bacharel em Ciência da Computação e também técnico em Desenvolvimento de Sistemas.<br> Focado em Data Science, transformando dados em soluções inteligentes. <br>Também levo criatividade para Front-End e Design UI/UX, criando interfaces funcionais e bem elaboradas. <br>Estou sempre em busca de novos aprendizados para evoluir como desenvolvedor e ampliar minhas habilidades.</p>
 
 ###
 
